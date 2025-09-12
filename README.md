@@ -21,6 +21,30 @@ Multinomial Naive Bayes (comparison)
 
 📝 Prediction: Classifies new text as Real or Fake
 
+📚 Learnings & Takeaways
+
+Preprocessing is crucial for NLP tasks (stopword removal, cleaning).
+
+TF-IDF provides strong baseline features for text classification.
+
+Logistic Regression performs surprisingly well on high-dimensional sparse text data.
+
+Even a simple ML pipeline can achieve high accuracy on real-world datasets.
+
+🚀 Future Work
+
+Experiment with Deep Learning models (LSTM, BERT).
+
+Add a simple Flask/Django web app for live fake-news detection.
+
+Deploy as an interactive demo using Streamlit or HuggingFace Spaces.
+
+📜 Acknowledgments
+
+Dataset: Kaggle – Fake and Real News Dataset
+
+Libraries: scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, NLTK
+
 📂 Project Structure
 fake-news-detection/
 │
