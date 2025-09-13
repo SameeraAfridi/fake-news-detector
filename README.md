@@ -1,4 +1,6 @@
-📰 Fake News Detection using Machine Learning
+📰 Fake News Detection using Machine Learning                                <img width="438" height="457" alt="image" src="https://github.com/user-attachments/assets/6fa72383-d6f0-44db-bf33-c32998347bed" />                     <img width="495" height="301" alt="image" src="https://github.com/user-attachments/assets/7dd6fbb3-5917-48cf-9f0a-480ff0c6c211" />
+
+
 
 This project implements a Fake News Detection system using Python, scikit-learn, and Natural Language Processing (NLP) techniques.
 It demonstrates how machine learning can be applied to text classification, specifically distinguishing between real and fake news articles.
